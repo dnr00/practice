@@ -1,0 +1,27 @@
+GET http://localhost:8080/todo/register
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-03-24T194946.200.html
+
+###
+
+GET http://localhost:8080/ex3
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-03-18T175219.404.html
+
+###
+
+GET http://localhost:8080/ex2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-03-18T175149.404.html
+
+###
+
