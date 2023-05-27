@@ -5,4 +5,6 @@
 - HTML
 - CSS
 - JavaScript
-
+- Netty
+- AJAX
+- Node.js
