@@ -4,132 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3d97f7f-eed6-4a63-8c84-7cfbf534a1da" name="Changes" comment="230527">
-      <change afterPath="$PROJECT_DIR$/nettystudy/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nettystudy/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nettystudy/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nettystudy/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nettystudy/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nettystudy/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nettystudy/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nettystudy/src/main/java/com/study/nettystudy/NettystudyApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nettystudy/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nettystudy/src/test/java/com/study/nettystudy/NettystudyApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/classes/Student.java" afterDir="false" />
+    <list default="true" id="a3d97f7f-eed6-4a63-8c84-7cfbf534a1da" name="Changes" comment="230602">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/BreakExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/BreakExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/BreakOutterExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/BreakOutterExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/ConditionalOperationExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/ConditionalOperationExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/ContinueExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/ContinueExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/ReadKeyCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/ReadKeyCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/ScannerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/ScannerExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/SingOperatorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/SingOperatorExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/array/ArrayCreateByNewExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/array/ArrayCreateByNewExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/array/ArrayCreateByValueListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/array/ArrayCreateByValueListExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/array/ArrayInArrayExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/array/ArrayInArrayExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/array/ArrayLengthExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/array/ArrayLengthExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/array/ArrayReferenceObjectExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/array/ArrayReferenceObjectExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/array/MainStringArrayArgument.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/array/MainStringArrayArgument.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/classes/ClassName.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/classes/ClassName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/classes/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/classes/StudentExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/classes/StudentExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/condition/IfDiceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/condition/IfDiceExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/condition/IfElseExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/condition/IfElseExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/condition/IfElseIfElseExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/condition/IfElseIfElseExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/condition/IfExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/condition/IfExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/condition/SwitchCharExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/condition/SwitchCharExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/condition/SwitchExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/condition/SwitchExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/condition/SwitchNoBreakCaseExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/condition/SwitchNoBreakCaseExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/conversion/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/conversion/Child.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/conversion/ChildExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/conversion/ChildExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/conversion/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/conversion/Parent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/conversion/PromotionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/conversion/PromotionExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/enums/EnumWeekExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/enums/EnumWeekExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/enums/Week.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/enums/Week.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/exception/MyExceptionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/exception/MyExceptionExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/extend/CellPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/extend/CellPhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/extend/DmbCellPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/extend/DmbCellPhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/extend/DmbCellPhoneExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/extend/DmbCellPhoneExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/extend/People.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/extend/People.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/extend/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/extend/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/extend/StudentExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/extend/StudentExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/extend/impossible/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/extend/impossible/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/extend/impossible/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/extend/impossible/Member.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/extend/impossible/SportsCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/extend/impossible/SportsCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/extend/impossible/VeryImportantPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/extend/impossible/VeryImportantPerson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/field/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/field/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/field/CarExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/field/CarExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/field/Earth.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/field/Earth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/field/EarthExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/field/EarthExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/field/FieldInitValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/field/FieldInitValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/field/FieldInitValueExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/field/FieldInitValueExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/field/GiftMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/field/GiftMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/field/GiftSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/field/GiftSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/field/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/field/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/field/PersonExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/field/PersonExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/field/SpecialGift.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/field/SpecialGift.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/instance/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/instance/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/instance/CarExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/instance/CarExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/method/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/method/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/method/CalculatorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/method/CalculatorExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/method/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/method/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/method/CarExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/method/CarExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/method/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/method/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/method/ComputerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/method/ComputerExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/method/callparent/Airplane.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/method/callparent/Airplane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/method/callparent/SupersonicAirplane.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/method/callparent/SupersonicAirplane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/method/callparent/SupersonicAirplaneExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/method/callparent/SupersonicAirplaneExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/override/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/override/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/override/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/override/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/override/ComputerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/override/ComputerExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/polymorphism/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/polymorphism/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/polymorphism/CarExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/polymorphism/CarExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/polymorphism/HankookTire.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/polymorphism/HankookTire.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/polymorphism/KumhoTire.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/polymorphism/KumhoTire.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/polymorphism/Tire.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/polymorphism/Tire.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/polymorphism/casting/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/polymorphism/casting/Child.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/polymorphism/casting/ChildExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/polymorphism/casting/ChildExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/polymorphism/casting/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/polymorphism/casting/Parent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/polymorphism/parameter/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/polymorphism/parameter/Bus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/polymorphism/parameter/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/polymorphism/parameter/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/polymorphism/parameter/DriverExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/polymorphism/parameter/DriverExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/polymorphism/parameter/Taxi.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/polymorphism/parameter/Taxi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/polymorphism/parameter/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/polymorphism/parameter/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/practice/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/practice/Constants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/practice/Exercise04.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/practice/Exercise04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/practice/ForFunctionXandY.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/practice/ForFunctionXandY.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/practice/ForStar.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/practice/ForStar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/practice/ForStar2.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/practice/ForStar2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/practice/ForSum3Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/practice/ForSum3Example1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/practice/ForSum3Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/practice/ForSum3Example2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/practice/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/practice/Member.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/practice/MemberExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/practice/MemberExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/practice/MemberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/practice/MemberService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/practice/MemberServiceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/practice/MemberServiceExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/practice/TwoDiceWhileExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/practice/TwoDiceWhileExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/protect/ProtectedExampleA.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/protect/ProtectedExampleA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/protect/ProtectedExampleB.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/protect/ProtectedExampleB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/protect2/ProtectedExampleC.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/protect2/ProtectedExampleC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/protect2/ProtectedExampleD.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/protect2/ProtectedExampleD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/reference/StringEqualsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/reference/StringEqualsExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/repeat/AdvancedForExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/repeat/AdvancedForExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/repeat/ForFloatCounterExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/repeat/ForFloatCounterExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/repeat/ForMultiplicationTableExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/repeat/ForMultiplicationTableExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/repeat/ForPrintFrom1To10Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/repeat/ForPrintFrom1To10Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/repeat/ForSumFrom1To100Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/repeat/ForSumFrom1To100Example1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/repeat/ForSumFrom1To100Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/repeat/ForSumFrom1To100Example2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/repeat/WhilePrintFrom1To10Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/repeat/WhilePrintFrom1To10Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/repeat/WhileSumFrom1To100Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/repeat/WhileSumFrom1To100Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/statics/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/statics/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/statics/CalculatorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/statics/CalculatorExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/statics/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/statics/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/statics/ShopService.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/statics/ShopService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/statics/ShopServiceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/statics/ShopServiceExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/statics/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/statics/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study_alone/src/main/part/com/javastudy/statics/SingletonExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/statics/SingletonExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,6 +72,7 @@
       <workItem from="1685174401031" duration="185000" />
       <workItem from="1685283349655" duration="55000" />
       <workItem from="1685669731458" duration="558000" />
+      <workItem from="1685687845022" duration="1227000" />
     </task>
     <task id="LOCAL-00001" summary="230526 add .gitattributes(css files)">
       <created>1685087931248</created>
@@ -218,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685283394548</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="230602">
+      <created>1685687966502</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685687966502</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,6 +122,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="230526 add .gitattributes(css files)" />
     <MESSAGE value="230527" />
-    <option name="LAST_COMMIT_MESSAGE" value="230527" />
+    <MESSAGE value="230602" />
+    <option name="LAST_COMMIT_MESSAGE" value="230602" />
   </component>
 </project>
