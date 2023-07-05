@@ -1,4 +1,4 @@
-package main.part.com.selfstudy.javastudy.polymorphism.parameter;
+package main.java.com.study.javastudy.polymorphism.parameter;
 
 public class Vehicle {
     public void run() {

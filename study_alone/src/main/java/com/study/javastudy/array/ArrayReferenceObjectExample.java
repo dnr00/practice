@@ -1,4 +1,4 @@
-package main.part.com.selfstudy.javastudy.array;
+package main.java.com.study.javastudy.array;
 
 public class ArrayReferenceObjectExample {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package main.part.com.selfstudy.javastudy.protect2;
+package main.java.com.study.javastudy.protect2;
 
-import main.part.com.selfstudy.javastudy.protect.ProtectedExampleA;
+import main.java.com.study.javastudy.protect.ProtectedExampleA;
 
 public class ProtectedExampleD extends ProtectedExampleA {
     public ProtectedExampleD() {

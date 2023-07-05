@@ -1,4 +1,4 @@
-package main.part.com.selfstudy.javastudy.conversion;
+package main.java.com.study.javastudy.conversion;
 
 public class Child extends Parent{
     @Override

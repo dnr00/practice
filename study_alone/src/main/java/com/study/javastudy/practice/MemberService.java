@@ -1,4 +1,4 @@
-package main.part.com.selfstudy.javastudy.practice;
+package main.java.com.study.javastudy.practice;
 
 public class MemberService {
     boolean login (String id, String password) {

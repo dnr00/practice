@@ -1,4 +1,4 @@
-package main.part.com.selfstudy.javastudy.method;
+package main.java.com.study.javastudy.method;
 
 public class CalculatorExample {
     public static void main(String[] args) {

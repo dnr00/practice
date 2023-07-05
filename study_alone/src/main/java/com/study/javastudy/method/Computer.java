@@ -1,4 +1,4 @@
-package main.part.com.selfstudy.javastudy.method;
+package main.java.com.study.javastudy.method;
 
 public class Computer {
     int sum1(int[] values) { // 매개 변수의 개수를 모를 경우

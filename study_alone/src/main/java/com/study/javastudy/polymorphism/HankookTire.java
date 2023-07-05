@@ -1,4 +1,4 @@
-package main.part.com.selfstudy.javastudy.polymorphism;
+package main.java.com.study.javastudy.polymorphism;
 
 public class HankookTire extends Tire{
     //field

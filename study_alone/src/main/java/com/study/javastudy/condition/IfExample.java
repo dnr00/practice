@@ -1,4 +1,4 @@
-package main.part.com.selfstudy.javastudy.condition;
+package main.java.com.study.javastudy.condition;
 
 //if문 기초
 public class IfExample {

@@ -1,4 +1,4 @@
-package main.part.com.selfstudy.javastudy.exception;
+package main.java.com.study.javastudy.exception;
 
 public class MyExceptionExample {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package main.part.com.selfstudy.javastudy.repeat;
+package main.java.com.study.javastudy.repeat;
 
 public class WhileSumFrom1To100Example {
     public static void main(String[] args) {

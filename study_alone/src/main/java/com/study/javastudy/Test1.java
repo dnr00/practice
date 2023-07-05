@@ -1,4 +1,4 @@
-package main.part.com.selfstudy.javastudy;
+package main.java.com.study.javastudy;
 
 public class Test1 { //자동완성 연습
     public static void main(String[] args) { //psvm

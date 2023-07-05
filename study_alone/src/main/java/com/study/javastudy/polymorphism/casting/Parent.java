@@ -1,4 +1,4 @@
-package main.part.com.selfstudy.javastudy.polymorphism.casting;
+package main.java.com.study.javastudy.polymorphism.casting;
 
 public class Parent {
     public String field1;

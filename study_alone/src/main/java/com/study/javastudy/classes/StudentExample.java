@@ -1,4 +1,4 @@
-package main.part.com.selfstudy.javastudy.classes;
+package main.java.com.study.javastudy.classes;
 
 public class StudentExample {
     public static void main(String[] args) {

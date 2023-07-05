@@ -1,4 +1,4 @@
-package main.part.com.selfstudy.javastudy.polymorphism.parameter;
+package main.java.com.study.javastudy.polymorphism.parameter;
 
 public class Bus extends Vehicle{
     @Override

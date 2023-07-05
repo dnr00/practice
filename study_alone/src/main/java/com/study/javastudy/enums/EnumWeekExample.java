@@ -1,4 +1,4 @@
-package main.part.com.selfstudy.javastudy.enums;
+package main.java.com.study.javastudy.enums;
 
 
 import java.util.Calendar;

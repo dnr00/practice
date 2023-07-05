@@ -1,4 +1,4 @@
-package main.part.com.selfstudy.javastudy.array;
+package main.java.com.study.javastudy.array;
 
 public class ArrayCreateByNewExample {
     public static void main(String[] args) {

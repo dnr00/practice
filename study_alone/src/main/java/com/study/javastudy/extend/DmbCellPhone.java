@@ -1,4 +1,4 @@
-package main.part.com.selfstudy.javastudy.extend;
+package main.java.com.study.javastudy.extend;
 
 public class DmbCellPhone extends CellPhone {
     //field

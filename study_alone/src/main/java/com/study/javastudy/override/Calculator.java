@@ -1,4 +1,4 @@
-package main.part.com.selfstudy.javastudy.override;
+package main.java.com.study.javastudy.override;
 
 public class Calculator {
     double areaCircle(double r) {

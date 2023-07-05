@@ -1,4 +1,4 @@
-package main.part.com.selfstudy.javastudy.field;
+package main.java.com.study.javastudy.field;
 
 public class Earth {
     static final double EARTH_RADIUS = 6400; //상수 선언 : 상수는 static이면서 final

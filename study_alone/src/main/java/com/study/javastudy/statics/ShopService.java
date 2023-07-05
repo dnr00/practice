@@ -1,4 +1,4 @@
-package main.part.com.selfstudy.javastudy.statics;
+package main.java.com.study.javastudy.statics;
 
 public class ShopService { // 6-5 예제
 

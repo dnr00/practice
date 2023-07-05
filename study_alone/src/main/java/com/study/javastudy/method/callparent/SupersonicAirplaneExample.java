@@ -1,4 +1,4 @@
-package main.part.com.selfstudy.javastudy.method.callparent;
+package main.java.com.study.javastudy.method.callparent;
 
 public class SupersonicAirplaneExample {
     public static void main(String[] args) {

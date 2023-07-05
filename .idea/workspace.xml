@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3d97f7f-eed6-4a63-8c84-7cfbf534a1da" name="Changes" comment="230602">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a3d97f7f-eed6-4a63-8c84-7cfbf534a1da" name="Changes" comment="230602" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,6 +71,7 @@
       <workItem from="1685283349655" duration="55000" />
       <workItem from="1685669731458" duration="558000" />
       <workItem from="1685687845022" duration="1227000" />
+      <workItem from="1685694057883" duration="616000" />
     </task>
     <task id="LOCAL-00001" summary="230526 add .gitattributes(css files)">
       <created>1685087931248</created>
@@ -102,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685687966502</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="230602">
+      <created>1685694069520</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685694069520</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

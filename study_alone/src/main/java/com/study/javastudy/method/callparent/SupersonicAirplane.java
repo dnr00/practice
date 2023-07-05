@@ -1,4 +1,4 @@
-package main.part.com.selfstudy.javastudy.method.callparent;
+package main.java.com.study.javastudy.method.callparent;
 
 public class SupersonicAirplane extends Airplane {
     public static final int NORMAL = 1;

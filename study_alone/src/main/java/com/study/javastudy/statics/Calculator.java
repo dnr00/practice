@@ -1,4 +1,4 @@
-package main.part.com.selfstudy.javastudy.statics;
+package main.java.com.study.javastudy.statics;
 
 public class Calculator {
     static double pi = 3.14159;

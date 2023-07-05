@@ -1,4 +1,4 @@
-package main.part.com.selfstudy.javastudy.instance;
+package main.java.com.study.javastudy.instance;
 
 public class CarExample {
     public static void main(String[] args) {

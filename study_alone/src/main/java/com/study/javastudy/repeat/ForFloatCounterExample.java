@@ -1,4 +1,4 @@
-package main.part.com.selfstudy.javastudy.repeat;
+package main.java.com.study.javastudy.repeat;
 
 public class ForFloatCounterExample {
     public static void main(String[] args) {

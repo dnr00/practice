@@ -1,4 +1,4 @@
-package main.part.com.selfstudy.javastudy.protect2;
+package main.java.com.study.javastudy.protect2;
 
 public class ProtectedExampleC {
     public void method() {

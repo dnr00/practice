@@ -1,4 +1,4 @@
-package main.part.com.selfstudy.javastudy.statics;
+package main.java.com.study.javastudy.statics;
 
 public class ShopServiceExample {
     public static void main(String[] args) {

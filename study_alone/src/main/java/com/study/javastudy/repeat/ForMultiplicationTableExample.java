@@ -1,4 +1,4 @@
-package main.part.com.selfstudy.javastudy.repeat;
+package main.java.com.study.javastudy.repeat;
 
 //구구단
 public class ForMultiplicationTableExample {

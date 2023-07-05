@@ -1,4 +1,4 @@
-package main.part.com.selfstudy.javastudy.extend.impossible;
+package main.java.com.study.javastudy.extend.impossible;
 
 public class SportsCar extends Car {
     @Override

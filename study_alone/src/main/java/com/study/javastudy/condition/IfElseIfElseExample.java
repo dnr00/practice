@@ -1,4 +1,4 @@
-package main.part.com.selfstudy.javastudy.condition;
+package main.java.com.study.javastudy.condition;
 
 public class IfElseIfElseExample {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package main.part.com.selfstudy.javastudy.field;
+package main.java.com.study.javastudy.field;
 
 public class FieldInitValue {
     //필드

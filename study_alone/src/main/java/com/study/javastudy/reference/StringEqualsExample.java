@@ -1,4 +1,4 @@
-package main.part.com.selfstudy.javastudy.reference;
+package main.java.com.study.javastudy.reference;
 
 public class StringEqualsExample {
     public static void main(String[] args) {

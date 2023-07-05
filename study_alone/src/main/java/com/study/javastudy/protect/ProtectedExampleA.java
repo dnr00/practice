@@ -1,4 +1,4 @@
-package main.part.com.selfstudy.javastudy.protect;
+package main.java.com.study.javastudy.protect;
 
 public class ProtectedExampleA {
     protected String field;
