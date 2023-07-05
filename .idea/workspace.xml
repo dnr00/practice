@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3d97f7f-eed6-4a63-8c84-7cfbf534a1da" name="Changes" comment="230602" />
+    <list default="true" id="a3d97f7f-eed6-4a63-8c84-7cfbf534a1da" name="Changes" comment="230705" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,6 +72,7 @@
       <workItem from="1685669731458" duration="558000" />
       <workItem from="1685687845022" duration="1227000" />
       <workItem from="1685694057883" duration="616000" />
+      <workItem from="1688558664705" duration="254000" />
     </task>
     <task id="LOCAL-00001" summary="230526 add .gitattributes(css files)">
       <created>1685087931248</created>
@@ -108,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685694069520</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="230705">
+      <created>1688558900052</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1688558900052</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +137,7 @@
     <MESSAGE value="230526 add .gitattributes(css files)" />
     <MESSAGE value="230527" />
     <MESSAGE value="230602" />
-    <option name="LAST_COMMIT_MESSAGE" value="230602" />
+    <MESSAGE value="230705" />
+    <option name="LAST_COMMIT_MESSAGE" value="230705" />
   </component>
 </project>
