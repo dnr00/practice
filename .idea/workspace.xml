@@ -4,7 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3d97f7f-eed6-4a63-8c84-7cfbf534a1da" name="Changes" comment="230705" />
+    <list default="true" id="a3d97f7f-eed6-4a63-8c84-7cfbf534a1da" name="Changes" comment="230705">
+      <change afterPath="$PROJECT_DIR$/SolidityExercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SolidityExercise/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SolidityExercise/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SolidityExercise/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SolidityExercise/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SolidityExercise/contracts/Faucet.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SolidityExercise/contracts/Hello.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SolidityExercise/contracts/NewFaucet.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study_alone/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myboard/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/myboard/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myboard/src/main/java/org/uksang/myboard/MyboardApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/myboard/src/main/java/org/uksang/myboard/MyboardApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myboard/src/main/java/org/uksang/myboard/config/CustomSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/myboard/src/main/java/org/uksang/myboard/config/CustomSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myboard/src/main/java/org/uksang/myboard/config/CustomServletConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/myboard/src/main/java/org/uksang/myboard/config/CustomServletConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myboard/src/main/java/org/uksang/myboard/config/RootConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/myboard/src/main/java/org/uksang/myboard/config/RootConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myboard/src/main/java/org/uksang/myboard/config/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/myboard/src/main/java/org/uksang/myboard/config/SwaggerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myboard/src/main/java/org/uksang/myboard/controller/BoardController.java" beforeDir="false" afterPath="$PROJECT_DIR$/myboard/src/main/java/org/uksang/myboard/controller/BoardController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myboard/src/main/java/org/uksang/myboard/controller/ReplyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/myboard/src/main/java/org/uksang/myboard/controller/ReplyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myboard/src/main/java/org/uksang/myboard/controller/advice/CustomRestAdvice.java" beforeDir="false" afterPath="$PROJECT_DIR$/myboard/src/main/java/org/uksang/myboard/controller/advice/CustomRestAdvice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myboard/src/main/java/org/uksang/myboard/dto/BoardDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/myboard/src/main/java/org/uksang/myboard/dto/BoardDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myboard/src/main/java/org/uksang/myboard/dto/PageRequestDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/myboard/src/main/java/org/uksang/myboard/dto/PageRequestDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myboard/src/main/java/org/uksang/myboard/dto/PageResponseDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/myboard/src/main/java/org/uksang/myboard/dto/PageResponseDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myboard/src/main/java/org/uksang/myboard/dto/ReplyDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/myboard/src/main/java/org/uksang/myboard/dto/ReplyDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myboard/src/main/java/org/uksang/myboard/entity/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/myboard/src/main/java/org/uksang/myboard/entity/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myboard/src/main/java/org/uksang/myboard/repository/BoardRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/myboard/src/main/java/org/uksang/myboard/repository/BoardRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myboard/src/main/java/org/uksang/myboard/repository/search/BoardSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/myboard/src/main/java/org/uksang/myboard/repository/search/BoardSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myboard/src/main/java/org/uksang/myboard/repository/search/BoardSearchImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/myboard/src/main/java/org/uksang/myboard/repository/search/BoardSearchImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myboard/src/main/java/org/uksang/myboard/security/handler/CustomUserDetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/myboard/src/main/java/org/uksang/myboard/security/handler/CustomUserDetailsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myboard/src/main/java/org/uksang/myboard/service/BoardService.java" beforeDir="false" afterPath="$PROJECT_DIR$/myboard/src/main/java/org/uksang/myboard/service/BoardService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myboard/src/main/java/org/uksang/myboard/service/impl/BoardServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/myboard/src/main/java/org/uksang/myboard/service/impl/BoardServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myboard/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/myboard/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myboard/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/myboard/src/main/resources/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myboard/src/main/resources/static/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/myboard/src/main/resources/static/js/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy/Test1.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,6 +109,7 @@
       <workItem from="1685687845022" duration="1227000" />
       <workItem from="1685694057883" duration="616000" />
       <workItem from="1688558664705" duration="254000" />
+      <workItem from="1696409247124" duration="72000" />
     </task>
     <task id="LOCAL-00001" summary="230526 add .gitattributes(css files)">
       <created>1685087931248</created>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="53c129d7-8f22-430c-9ef1-25bac997dd05" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../SolidityExercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contracts/Faucet.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contracts/Hello.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contracts/NewFaucet.sol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboard/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../myboard/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboard/src/main/java/org/uksang/myboard/MyboardApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../myboard/src/main/java/org/uksang/myboard/MyboardApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboard/src/main/java/org/uksang/myboard/config/CustomSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../myboard/src/main/java/org/uksang/myboard/config/CustomSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboard/src/main/java/org/uksang/myboard/config/CustomServletConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../myboard/src/main/java/org/uksang/myboard/config/CustomServletConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboard/src/main/java/org/uksang/myboard/config/RootConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../myboard/src/main/java/org/uksang/myboard/config/RootConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboard/src/main/java/org/uksang/myboard/config/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../myboard/src/main/java/org/uksang/myboard/config/SwaggerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboard/src/main/java/org/uksang/myboard/controller/BoardController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../myboard/src/main/java/org/uksang/myboard/controller/BoardController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboard/src/main/java/org/uksang/myboard/controller/ReplyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../myboard/src/main/java/org/uksang/myboard/controller/ReplyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboard/src/main/java/org/uksang/myboard/controller/advice/CustomRestAdvice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../myboard/src/main/java/org/uksang/myboard/controller/advice/CustomRestAdvice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboard/src/main/java/org/uksang/myboard/dto/BoardDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../myboard/src/main/java/org/uksang/myboard/dto/BoardDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboard/src/main/java/org/uksang/myboard/dto/PageRequestDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../myboard/src/main/java/org/uksang/myboard/dto/PageRequestDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboard/src/main/java/org/uksang/myboard/dto/PageResponseDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../myboard/src/main/java/org/uksang/myboard/dto/PageResponseDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboard/src/main/java/org/uksang/myboard/dto/ReplyDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../myboard/src/main/java/org/uksang/myboard/dto/ReplyDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboard/src/main/java/org/uksang/myboard/entity/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/../myboard/src/main/java/org/uksang/myboard/entity/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboard/src/main/java/org/uksang/myboard/repository/BoardRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../myboard/src/main/java/org/uksang/myboard/repository/BoardRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboard/src/main/java/org/uksang/myboard/repository/search/BoardSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../myboard/src/main/java/org/uksang/myboard/repository/search/BoardSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboard/src/main/java/org/uksang/myboard/repository/search/BoardSearchImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../myboard/src/main/java/org/uksang/myboard/repository/search/BoardSearchImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboard/src/main/java/org/uksang/myboard/security/handler/CustomUserDetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../myboard/src/main/java/org/uksang/myboard/security/handler/CustomUserDetailsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboard/src/main/java/org/uksang/myboard/service/BoardService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../myboard/src/main/java/org/uksang/myboard/service/BoardService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboard/src/main/java/org/uksang/myboard/service/impl/BoardServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../myboard/src/main/java/org/uksang/myboard/service/impl/BoardServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboard/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../myboard/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboard/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../myboard/src/main/resources/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myboard/src/main/resources/static/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/../myboard/src/main/resources/static/js/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study_alone/src/main/java/com/study/javastudy/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../study_alone/src/main/java/com/study/javastudy/Test1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Solidity Contract" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2WHywpFbR62SaHaaI2DZ39ofzcu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "C:/Users/jungkook/AppData/Roaming/JetBrains/IntelliJIdea2022.3/node/node-v16.16.0-win-x64/node",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53c129d7-8f22-430c-9ef1-25bac997dd05" name="Changes" comment="" />
+      <created>1696404042856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696404042856</updated>
+      <workItem from="1696404044276" duration="3761000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
