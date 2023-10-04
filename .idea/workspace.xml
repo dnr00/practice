@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3d97f7f-eed6-4a63-8c84-7cfbf534a1da" name="Changes" comment="231004 Solidity 추가" />
+    <list default="true" id="a3d97f7f-eed6-4a63-8c84-7cfbf534a1da" name="Changes" comment="231004 javastudy2(Java의 정석) 추가">
+      <change afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy2/control/conditional/FlowEx7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study_alone/src/main/java/com/study/javastudy2/control/conditional/FlowEx8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,6 +78,8 @@
       <workItem from="1685694057883" duration="616000" />
       <workItem from="1688558664705" duration="254000" />
       <workItem from="1696409247124" duration="338000" />
+      <workItem from="1696417596568" duration="99000" />
+      <workItem from="1696431146589" duration="308000" />
     </task>
     <task id="LOCAL-00001" summary="230526 add .gitattributes(css files)">
       <created>1685087931248</created>
@@ -124,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696409549506</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="231004 javastudy2(Java의 정석) 추가">
+      <created>1696417648135</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1696417648135</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +160,7 @@
     <MESSAGE value="230602" />
     <MESSAGE value="230705" />
     <MESSAGE value="231004 Solidity 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="231004 Solidity 추가" />
+    <MESSAGE value="231004 javastudy2(Java의 정석) 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="231004 javastudy2(Java의 정석) 추가" />
   </component>
 </project>
